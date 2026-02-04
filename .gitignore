@@ -12,7 +12,7 @@ media/
 node_modules/
 
 # Environment variables
-# .env
+.env
 
 # OS / Editor
 .DS_Store
