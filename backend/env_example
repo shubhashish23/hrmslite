@@ -3,3 +3,5 @@ DB_USER = postgres
 DB_PASSWORD = password
 DB_HOST = localhost
 DB_PORT = 5432
+SECRET_KEY = c5czivn%&aj9yms^=c1%7sx(0%b(0ywzgm=*x24j4+fx_v-ds3
+DEBUG_FLAG = True
